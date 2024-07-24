@@ -9,7 +9,7 @@
 
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mangoggul&theme=react-dark&bg_color=ffffff&hide_border=true&line=0366d6&color=0366d6" width="94%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mangoggul&theme=react-dark&bg_color=ffffff&hide_border=true&line=0366d6&color=0366d6" width="94%" />
 </a>
 
 
