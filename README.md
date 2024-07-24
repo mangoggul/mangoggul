@@ -24,4 +24,4 @@
 
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <t/>
 <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
-<img src="https://img.shields.io/badge/PyTorch-orange?logo=PyTorch">
+<img src="https://img.shields.io/badge/PyTorch-orange?style=for-the-badge&logo=PyTorch">
